@@ -1,1 +1,2 @@
-# PasswordManager
+# Password Manager
+A rudimentary password manager written in Java. The end goal is to have a program that stores passwords in a text file encrypted by a master password. It can also generate new passwords and store those with the corresponding website name. The program currently encrypts using a simple Caesar cipher, but once the bare bones are complete I intend to beef it up to industry-standard symmetric key encryption. Work-in-progress, written 2017-2018.
